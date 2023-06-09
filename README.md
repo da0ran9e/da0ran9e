@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da0ran9e)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **da0ran9e/da0ran9e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
