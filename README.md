@@ -1,3 +1,7 @@
+<img align="right" width="400" src="https://github.com/images/modules/search/dark.png">
+<h1 align="center">
+  Hi there,
+</h1>
 
 <div align=center>
   <p align="center" color="#f71e1e"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Vu+Duc+An!;Nice+to+see+you+❤"></p>
