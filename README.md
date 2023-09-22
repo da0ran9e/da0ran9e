@@ -15,9 +15,6 @@
 </div>
 
 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da0ran9e&label=Profile%20views&color=0e75b6&style=flat" /> </p>
