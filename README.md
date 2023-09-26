@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<div align=center>
+<div align=centerm; position: absolute;>
   <a href="#" title="da0ran9e">
     <img align="right" height="198" src="https://github-readme-stats-sigma-five.vercel.app/api?username=da0ran9e&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
