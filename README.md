@@ -16,5 +16,6 @@
 
 
 
-
+<div aligh=left>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da0ran9e&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+</div>
