@@ -31,7 +31,7 @@ I'm a **Computer Science master's student** and **Research Assistant at Hanoi Un
 | Present | 🎓 M.Sc. in Computer Science | Hanoi University of Science and Technology |
 | Mar – May 2024 | 🎮 Game Developer Intern | Gameloft Hanoi (HAN-Studio) |
 | Aug – Sep 2023 | 💼 Software Developer Intern | BRAVO Software JSC |
-| 2021 – 2025 | 🎓 B.Eng. in Information and Communication Technology | SoICT, HUST |
+| 2021 – 2025 | 🎓 Bachelor's in Information and Communication Technology | SoICT, HUST |
 
 ## 📄 Publications
 
