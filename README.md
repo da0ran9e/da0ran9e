@@ -64,19 +64,19 @@ I'm a **Computer Science master's student** and **Research Assistant at Hanoi Un
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=da0ran9e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=da0ran9e&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=da0ran9e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&disable_animations=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=da0ran9e&show_icons=true&theme=default&hide_border=true&bg_color=00000000&disable_animations=true" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell&disable_animations=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell&disable_animations=true" alt="Top languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=da0ran9e&theme=tokyonight&hide_border=true&background=00000000" />
-    <img src="https://streak-stats.demolab.com/?user=da0ran9e&theme=default&hide_border=true&background=00000000" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=da0ran9e&theme=tokyonight&hide_border=true&background=00000000&disable_animations=true" />
+    <img src="https://streak-stats.demolab.com/?user=da0ran9e&theme=default&hide_border=true&background=00000000&disable_animations=true" alt="GitHub streak" />
   </picture>
 </p>
 
