@@ -78,8 +78,8 @@ I'm a **Computer Science master's student** and **Research Assistant at Hanoi Un
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=da0ran9e&show_icons=true&theme=default&hide_border=true&bg_color=00000000&disable_animations=true" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell&disable_animations=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell&disable_animations=true" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell,makefile,omnet%2B%2B%20ned&disable_animations=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da0ran9e&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,css,cmake,shell,makefile,omnet%2B%2B%20ned&disable_animations=true" alt="Top languages" />
   </picture>
 </p>
 
