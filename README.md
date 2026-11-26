@@ -23,6 +23,16 @@ I'm a **Computer Science master's student** and **Research Assistant at Hanoi Un
 - 🎮 **Previously:** game developer intern at Gameloft Hanoi and software developer intern at BRAVO Software
 - 🌐 **More about me:** [vuducan.qzz.io](https://vuducan.qzz.io)
 
+## 🎓 Experience & education
+
+| When | Role | Where |
+| :-- | :-- | :-- |
+| 2023 – now | 🔬 Research Assistant | Hanoi University of Science and Technology |
+| Present | 🎓 M.Sc. in Computer Science | Hanoi University of Science and Technology |
+| Mar – May 2024 | 🎮 Game Developer Intern | Gameloft Hanoi (HAN-Studio) |
+| Aug – Sep 2023 | 💼 Software Developer Intern | BRAVO Software JSC |
+| 2021 – 2025 | 🎓 Bachelor's in Information and Communication Technology | SoICT, HUST |
+
 ## 📄 Publications
 
 | Paper | Venue | Status |
