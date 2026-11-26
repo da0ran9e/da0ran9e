@@ -35,10 +35,10 @@ I'm a **Computer Science master's student** and **Research Assistant at Hanoi Un
 
 ## 📄 Publications
 
-| Paper | Venue | Status |
+| Paper | Venue | DOI |
 | :-- | :--: | :--: |
-| **An Elastic Clustering Framework for Large-Scale WSNs Maximizing Network Lifetime**<br><sub>Quan A. Le, An D. Vu, Khanh-Van Nguyen</sub> | IEEE WCNC 2026 | Submitted |
-| **Joint Fragment Dissemination and Edge Fusion for Fast Target Detection in UAV-Assisted Urban IoT**<br><sub>An D. Vu, Khanh-Van Nguyen</sub> | ICCE 2026 | Submitted |
+| **An Elastic Clustering Framework for Large-Scale WSNs Maximizing Network Lifetime**<br><sub>Quan A. Le, An D. Vu, Khanh-Van Nguyen</sub> | IEEE WCNC 2026 | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FWCNC65185.2026.11555687-0e75b6?style=flat-square)](https://doi.org/10.1109/WCNC65185.2026.11555687) |
+| **Joint Fragment Dissemination and Edge Fusion for Fast Target Detection in UAV-Assisted Urban IoT**<br><sub>An D. Vu, Khanh-Van Nguyen</sub> | IEEE ICCE 2026 | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCE70609.2026.11658430-0e75b6?style=flat-square)](https://doi.org/10.1109/ICCE70609.2026.11658430) |
 
 ## 🧰 Tech stack
 
